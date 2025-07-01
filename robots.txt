@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chianlou.netlify.app/sitemap.xml
